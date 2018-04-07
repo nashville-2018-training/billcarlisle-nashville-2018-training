@@ -1,0 +1,14 @@
+uuid: 9074b454-3173-48cc-83f6-5b8dab072b57
+name: billcarlisle-nashville-2018-training
+mail: david.needham@getpantheon.com
+slogan: ''
+page:
+  403: ''
+  404: ''
+  front: /node
+admin_compact_mode: false
+weight_select_max: 100
+langcode: en
+default_langcode: en
+_core:
+  default_config_hash: yXadRE77Va-G6dxhd2kPYapAvbnSvTF6hO4oXiOEynI
